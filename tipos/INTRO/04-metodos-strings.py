@@ -1,0 +1,10 @@
+animal = "  chanChito feliz  "
+print(animal.replace("Chit", "fff"))
+print(animal.upper())
+print(animal.strip())
+print(animal.title())
+print(animal.lstrip())
+print(animal.rstrip())
+print(animal.find("ha"))
+print("ito" in animal)
+print("ito" not in animal)
